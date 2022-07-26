@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetclipattern", "dotnetclipattern.csproj", "{A1E91FAF-7BF7-4D83-A21B-5B171DD7A76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetclipattern.test", "..\dotnetclipattern.test\dotnetclipattern.test.csproj", "{2D2A7A84-DAD7-49A2-BA82-4C7BCA28B03C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E91FAF-7BF7-4D83-A21B-5B171DD7A76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E91FAF-7BF7-4D83-A21B-5B171DD7A76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E91FAF-7BF7-4D83-A21B-5B171DD7A76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E91FAF-7BF7-4D83-A21B-5B171DD7A76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2A7A84-DAD7-49A2-BA82-4C7BCA28B03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2A7A84-DAD7-49A2-BA82-4C7BCA28B03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2A7A84-DAD7-49A2-BA82-4C7BCA28B03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2A7A84-DAD7-49A2-BA82-4C7BCA28B03C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B243C0-4535-405D-AE57-707C68EC1741}
+	EndGlobalSection
+EndGlobal

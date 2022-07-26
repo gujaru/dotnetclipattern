@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "dotnetclipattern": {
+      "commandName": "Project",
+      "commandLineArgs": "-n 1001 -p -e -l",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Testing"
+      }
+    }
+  }
+}
